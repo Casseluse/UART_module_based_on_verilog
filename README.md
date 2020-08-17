@@ -11,3 +11,4 @@
 
 ⑤完成一次发送或接收工作后自动置位
 
+![instruction 使用说明](/blob/master/instruction.jpg "百度logo")
